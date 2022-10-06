@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Luce</string>
+    <string name="subtitulo">Uma maneira divertida de crescer</string>
+    <string name="login">Login</string>
+    <string name="cadastrar">Cadastrar-se</string>
+    <string name="cadastrarC">Cadastrar</string>
+    <string name="semConta">Ainda não tem uma conta?</string>
+    <string name="Cadastro">Cadastro</string>
+    <string name="CadastroC">Criança</string>
+    <string name="nome">Digite seu nome</string>
+    <string name="email">Digite seu email</string>
+    <string name="senha">Digite sua senha</string>
+    <string name="confirmar">Confirme sua senha</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_dicas">Dicas</string>
+    <string name="menu_tools">Configurações</string>
+    <string name="menu_share">Compartilhe</string>
+    <string name="quemSomos">Quem somos</string>
+
+
+    <string name="indicadorNome">Questionário</string>
+    <string name="pergunta">Ser ou não ser, eis a questão</string>
+    <string name="resposta">Shakespeare</string>
+    <string name="proxima">Próxima</string>
+    <string name="finalizar">Finalizar</string>
+
+
+    <string name="somos">O Luce é um aplicativo mobile que ajuda a desenvolver as atividades cognitivas de crianças com Síndrome de Down.</string>
+    <string name="desenvolvido">Desenvolvedores:</string>
+    <string name="Anny">Anny Karoline</string>
+    <string name="Brenda">Brenda Moura</string>
+    <string name="Euclides">Euclides Lins</string>
+
+
+</resources>

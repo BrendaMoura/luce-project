@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appluce">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_luce"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".ComecarJogo"></activity>
+        <activity android:name=".Indicador" />
+        <activity android:name=".JogodaMemoria" />
+        <activity android:name=".AreaCrianca" />
+        <activity android:name=".DicaEscolhida" />
+        <activity android:name=".CadastrarCrianca" />
+        <activity
+            android:name=".Principal"
+            android:label="@string/title_activity_principal"
+            android:theme="@style/NoActionBar" />
+        <activity android:name=".Cadastrar" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="LoginActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+    </application>
+
+</manifest>
